@@ -3,7 +3,7 @@
 
 ## Схема
 
-<img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_653d4674813da32b38d84077_653d48bf40c00e26c39a3512/scale_1200" />" 
+<img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_653d4674813da32b38d84077_653d48bf40c00e26c39a3512/scale_1200" />
 
 
 
